@@ -1,0 +1,22 @@
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\bin\Debug\etc.exe.config
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\bin\Debug\etc.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\bin\Debug\etc.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.csproj.AssemblyReference.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.Form1.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.Properties.Resources.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.csproj.GenerateResource.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.csproj.CoreCompileInputs.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXE\etc\etc\obj\Debug\etc.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.csproj.AssemblyReference.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.Form1.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.Properties.Resources.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.csproj.GenerateResource.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.csproj.CoreCompileInputs.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\obj\Debug\etc.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\bin\Debug\etc.exe.config
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\bin\Debug\etc.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\etc\etc\bin\Debug\etc.pdb

@@ -1,0 +1,14 @@
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\bin\Debug\ToataMateria.exe.config
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\bin\Debug\ToataMateria.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\bin\Debug\ToataMateria.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.csproj.AssemblyReference.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.Form1.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.Properties.Resources.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.csproj.GenerateResource.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.csproj.CoreCompileInputs.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\bin\Debug\Control.Draggable.dll
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.csproj.CopyComplete
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\ToataMateria\ToataMateria\obj\Debug\ToataMateria.Form2.resources

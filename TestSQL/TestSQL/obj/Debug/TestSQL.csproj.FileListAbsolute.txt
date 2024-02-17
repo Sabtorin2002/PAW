@@ -1,0 +1,11 @@
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\bin\Debug\TestSQL.exe.config
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\bin\Debug\TestSQL.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\bin\Debug\TestSQL.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.csproj.AssemblyReference.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.Form1.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.Properties.Resources.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.csproj.GenerateResource.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.csproj.CoreCompileInputs.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\TestSQL\TestSQL\obj\Debug\TestSQL.pdb

@@ -1,0 +1,14 @@
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\bin\Debug\Biciclete.exe.config
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\bin\Debug\Biciclete.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\bin\Debug\Biciclete.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.csproj.AssemblyReference.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.Form1.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.Properties.Resources.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.csproj.GenerateResource.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.csproj.CoreCompileInputs.cache
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.exe
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.pdb
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.Form2.resources
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\bin\Debug\Control.Draggable.dll
+D:\Facultate\!Anu 2 Sem II\Programarea aplicatiilor Windows\!EXAMEN pregatire\Biciclete\Biciclete\obj\Debug\Biciclete.csproj.CopyComplete

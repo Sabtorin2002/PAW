@@ -1,0 +1,3 @@
+Diavola,Barcuta,19
+Pollo,Subtire,20
+Taraneasca,Italian,14
